@@ -1,4 +1,4 @@
-# Stop resources over the weekend
+# Stop resources
 1. Login to EC2 console and stop the two EC2 machines
 2. Login to AWS RDS console and stop the RDS/Aurora instances
 # Final cleanup after final day session 
